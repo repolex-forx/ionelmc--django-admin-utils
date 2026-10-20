@@ -1,0 +1,11 @@
+{
+  "org": "ionelmc",
+  "repo": "django-admin-utils",
+  "versions": [
+    {
+      "commit": "11f1ab96031ef08ace0ee42f5a2c1adac8b2bcac",
+      "tag": "v2.2.0",
+      "parsed_at": "2026-10-20T19:42:12.774808+00:00"
+    }
+  ]
+}
