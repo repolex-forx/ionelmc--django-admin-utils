@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/ionelmc/django-admin-utils/commit/11f1ab96031ef08ace0ee42f5a2c1adac8b2bcac",
       "git:hexsha": "11f1ab96031ef08ace0ee42f5a2c1adac8b2bcac",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v2.2.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v2.2.0",
+      "repolex:parsedAt": "2026-10-20T19:42:12.774303+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ionelmc/django-admin-utils/commit/8bbc9234368b23b708e5659175b1cf8c5d1262fb",
